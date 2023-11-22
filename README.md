@@ -1,8 +1,7 @@
 # ConsultaSunat
 Web scrapping con pupperteer y node js
 
-##Step 1: usar Node 18
-npm i
+##Step 1: usar Node 18.18.2
 
 ##Step 2: Ejecuta el server con express
 node index.js 
@@ -11,5 +10,5 @@ node index.js
 
 POST: http://localhost:9101/sunat
 {
-    "documento":"20101087647 "
+    "documento":"20101087647"
 }
